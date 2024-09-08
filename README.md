@@ -12,6 +12,7 @@ Quick installation of mining on Android Phones
 - Stable network (WiFi/cellular) is a must for proper installation/operation. Be prepared to troubleshoot and fix them yourself.
 
 ## Installation instructions
+vid that may help you : https://youtu.be/AqPIB6s0P14?si=rlsTy-f1ch6f9iNz
 - install Userland app (preferably version `2.8.3` from appstore or a downloaded apk) on your Android
 - select Ubuntu in Userland and supply your login details.
 - choose SSH
