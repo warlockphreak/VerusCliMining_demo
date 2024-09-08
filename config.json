@@ -19,7 +19,7 @@
 	"user": "RJ7vWwH3VcMhhTxWWt8b7VLzoYRAKAA5J4.warlockphreak",
 	"pass": "x",
 	"algo": "verus",
-	"threads": 7,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
