@@ -1,16 +1,6 @@
 {
 	"pools":[
 	{
-		"name": "pool.verus.io",
-        	"url": "stratum+tcp://us.cloudiko.io:9999",
-		"timeout": 150
-	},
-	{
-		"name": "verus.farm (Quipacorn)",
-        	"url": "stratum+tcp://us.cloudiko.io:9999",
-		"timeout": 150
-	},
-	{
 		"name": "LuckPool",
         	"url": "stratum+tcp://na.luckpool.net:3960",
 		"timeout": 150
